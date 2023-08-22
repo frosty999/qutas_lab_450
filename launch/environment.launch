@@ -1,5 +1,6 @@
 <?xml version='1.0'?>
 <launch>
+	<!-- Test gui again -->
 	<!-- Common Settings -->
 	<arg name="frame_id" default="map" />
 	<arg name="topic_grid" default="/grid" />
